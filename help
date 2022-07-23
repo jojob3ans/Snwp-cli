@@ -1,0 +1,22 @@
+                                                                         
+                                                                         
+        _/_/_/  _/_/_/      _/_/    _/      _/      _/  _/    _/  _/_/_/    
+     _/_/      _/    _/  _/    _/  _/      _/      _/  _/    _/  _/    _/   
+        _/_/  _/    _/  _/    _/    _/  _/  _/  _/    _/    _/  _/    _/    
+   _/_/_/    _/    _/    _/_/        _/      _/        _/_/_/  _/_/_/       
+                                                              _/            
+                                                             _/             
+
+   snwp is a program that allows you to back up your data as quickly as possible.
+   This program requires the pbzip2 compressor to be installed.
+
+   Available commands for working with the program:
+
+   -h, --help        Show this output
+   -a, --assemble    Creating archive in ~/.snwp.backup/
+   --add-to-list     Adding path to the file or directory
+                     to active paths.
+   -l, --show-list   Shows active paths.
+   -c, --clear-list  Clear list with active paths.
+
+
